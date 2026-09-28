@@ -1,16 +1,44 @@
-## Hi there 👋
+# [Georgy Chikhladze](https://www.linkedin.com/in/geo-chi)
 
-<!--
-**georgy-chikhladze/georgy-chikhladze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Procurement & Category Manager with 20+ years of experience in international sourcing, strategic sourcing, category management, supplier development, and China OEM/ODM.
 
-Here are some ideas to get you started:
+## Core expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Strategic Sourcing
+- Global Procurement
+- China OEM/ODM
+- Supplier Management
+- Private Label
+- Consumer Electronics
+- Small Appliances
+- PC Components
+- Category Management
+- International Logistics
+- Cost Optimization
+- Supplier Development & SRM
+
+## Industry background
+
+My experience includes sourcing and category management across consumer electronics, PC hardware, small appliances, wearables, automotive electronics, and selected industrial equipment.
+
+I have managed supplier portfolios in China, negotiated commercial terms, supported product development from specification to mass production, and coordinated quality control, certification, and international delivery.
+
+## Technology & AI
+
+I use AI-assisted tools such as ChatGPT and Codex to improve research, documentation, workflow automation, data handling, and technical problem-solving.
+
+I use GitHub to participate in project discussions, report issues, test fixes, and work with tools such as Reactive Resume
+
+## Current focus
+
+I am interested in opportunities in:
+
+- Procurement Management
+- Strategic / Global Sourcing
+- Category Management
+- Supplier / Vendor Management
+- Hardware Procurement
+- AI & Data Center Infrastructure Supply Chain
+
+Location: Kutaisi, Georgia  
+Open to: Georgia-based roles and remote opportunities across EMEA
